@@ -1,1 +1,2 @@
 # Peer-to-peer-lending-y-el-futuro-financiero
+La era digital impulsa el resurgimiento del peer-to-peer lending, un modelo que conecta prestatarios e inversores sin intermediarios. Con tecnología avanzada, como big data e inteligencia artificial, se reducen riesgos y se garantiza transparencia. Esta solución ágil y eficiente redefine el crédito, desafía al sistema financiero tradicional y abre nuevas oportunidades en tiempos de cambio constante.
